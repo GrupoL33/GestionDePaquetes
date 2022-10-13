@@ -1,2 +1,1 @@
-# Este es el archvo de configuracion
-# otro comentario 
+# iniciamos el programa gestion de paquetes
